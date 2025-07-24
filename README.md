@@ -5,7 +5,7 @@
 Code craftsman passionate about the analytic-holistic process of investigating, comprehending and solving problems. In breaks and spare time, I'm a game dev enthusiast and a voracious reader.
 
 * ✉️  Feel free to contact me at [mfr.vic@gmail.com](mailto:mfr.vic@gmail.com)
-* 📚  Books I'm currently reading: [MATLAB Programming: Mathematical Problem Solutions](https://www.amazon.com/Matlab-Programming-Mathematical-Problem-Solutions/dp/3110663562)
+* 📚  Book I'm currently reading: [MATLAB Programming: Mathematical Problem Solutions](https://www.amazon.com/Matlab-Programming-Mathematical-Problem-Solutions/dp/3110663562)
 * 🧠  I'm currently: Deepening knowledge of Data Structures, as well as applying them in order to anticipate and correct eventually faulty implementations.
 
 ### Socials :
