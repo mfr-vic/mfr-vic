@@ -1,4 +1,4 @@
-# Victor M.
+# Victor Ribeiro.
 
 **`Data Analyst`**
 
@@ -10,7 +10,7 @@ My workday spans designing and maintaining data pipelines, integrating financial
 
 I am particularly interested in the engineering behind analytics: how data is ingested, modeled, validated, observed, and exposed through reliable systems. Rather than treating dashboards as the final product, I focus on the pipelines, business rules, software components, and data contracts that make analytical outputs trustworthy and maintainable.
 
-I'm currently reading Micheal Lanham's [AI Agents in Action, Second Edition](https://www.amazon.com.br/Agents-Action-Second-Intelligent-workflows-ebook/dp/B0GQJ8V1XH) and wrestling it with what I learned from Antonio Gullì’s Agentic Design Patterns, my previous read. Deepening my knowledge in concepts such as agent harnesses, tool calling, retrieval-augmented memory, feedback loops, dense retrieval, and rerankers have been really useful and interesting so far.
+I'm currently reading Micheal Lanham's AI Agents in Action, Second Edition and wrestling it with what I learned from Antonio Gullì’s Agentic Design Patterns, my previous read. Deepening my knowledge in concepts such as agent harnesses, tool calling, retrieval-augmented memory, feedback loops, dense retrieval, and rerankers have been really useful and interesting so far.
 
 Outside work, I'm a game dev enthusiast and a voracious reader.
 
@@ -34,7 +34,7 @@ Outside work, I'm a game dev enthusiast and a voracious reader.
 </p>
 
 <p align="left">
-  <img alt="AWS" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img alt="AWS" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;&nbsp;&nbsp;
   <img alt="MongoDB" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img alt="Node.js" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img alt="FastAPI" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
